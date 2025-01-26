@@ -3,7 +3,7 @@ from textblob import TextBlob
 import csv
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 # Replace with your Google Places API Key
-API_KEY = "AIzaSyA11X27zHHj_6wQKHLaY-7QeEPlDKSj_wY"
+API_KEY = "API KEY"
 
 # Function to search for place details
 def get_place_details(place_name):
